@@ -1,2 +1,2 @@
 # ps-scripts
-Random powershell scripts
+Random powershell scripts I developed over time.
